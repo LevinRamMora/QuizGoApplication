@@ -1,0 +1,91 @@
+[{
+  "QuestionId": 1,
+  "Question": "Who is the father of computer?",
+  "Options": ["A. Charles Babbage","B. James Smith", "C. Arya Bhatta", "D. Tim Cook"],
+  "Answer": "A"
+},
+  {
+    "QuestionId": 2,
+    "Question": "What is the capital of France?",
+    "Options": ["A. Delhi", "B. London","C. Paris","D. Vienna"],
+    "Answer": "C"
+  },
+  {
+    "QuestionId": 3,
+    "Question": "What is the chemical symbol for water?",
+    "Options": ["A. NACL","B. H2SO4","C. H2O","D. H3O"],
+    "Answer": "C"
+  },
+  {
+    "QuestionId": 4,
+    "Question": "Which planet is known as the Red Planet?",
+    "Options": ["A. Earth","B. Venus", "C. Mars","D. Jupiter"],
+    "Answer": "C"
+  },
+  {
+    "QuestionId": 5,
+    "Question": "Which country is known for the ‘One Belt, One Road’ initiative?",
+    "Options": ["A. Australia","B. China","C. Germany","D. France"],
+    "Answer": "B"
+  },
+  {
+    "QuestionId": 6,
+    "Question": "Which country hosted the 2024 Summer Olympics?",
+    "Options": ["A. Japan","B. Italy","C. Austria","D. France"],
+    "Answer": "D"
+  },
+  {
+    "QuestionId": 7,
+    "Question": "What is the center of an atom called?",
+    "Options": ["A. Photons","B. Electrons","C. Nebula","D. Nucleus"],
+    "Answer": "D"
+  },
+  {
+    "QuestionId": 8,
+    "Question": "Which is the only continent without a desert?",
+    "Options": ["A. Antarctica", "B. North America","C. Asia","D. Europe"],
+    "Answer": "D"
+  },
+  {
+    "QuestionId": 9,
+    "Question": "Which country is known as “the Land of Thousand lakes”?",
+    "Options": ["A. China","B. Finland","C. South Africa","D. Russia"],
+    "Answer": "B"
+  },
+  {
+    "QuestionId": 10,
+    "Question": "Which war ended with the Treaty of Versailles?",
+    "Options": ["A. WW1", "B. WW2", "C. The Cold War","D. The Korean War"],
+    "Answer": "A"
+  },
+  {
+    "QuestionId": 11,
+    "Question": "What is the name of the mission that aims to return humans to the Moon?",
+    "Options": ["A. Artemis Program","B. K. Megan McArthur Program", "C. Scott Kelly Program", "D. Nichole Ayers Program"],
+    "Answer": "A"
+  },
+  {
+    "QuestionId": 12,
+    "Question": "Where is the tropic of cancer located?",
+    "Options": ["A. 21 ½ o N of equator", "B. 15 ½ o S of equator","C. 23 ½ o N ","D. 23 ½ o N of equator"],
+    "Answer": "D"
+  },
+  {
+    "QuestionId": 13,
+    "Question": "What is the S.I. unit of current?",
+    "Options": ["A. Ampere", "B. Volts", "C. Watts","D. Voltage"],
+    "Answer": "A"
+  },
+  {
+    "QuestionId": 14,
+    "Question": "What is the tallest type of tree?",
+    "Options": ["A. RedWood", "B. SandalWood", "C. Dates Tree", "D. Palmyra Palm"],
+    "Answer": "A"
+  },
+  {
+    "QuestionId": 15,
+    "Question": "What is the smallest unit of matter? ",
+    "Options": ["A. Nucleus","B. Atom","C. Protons","D. Photons"],
+    "Answer": "B"
+  }
+]
